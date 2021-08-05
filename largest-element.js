@@ -12,6 +12,6 @@ function largestElement(numbers) {
     return largest;
 }
 
-//const largestAges = largestElement([35, 12, 65, 90, 4, 19]);
-const largestAges = largestElement([-35, -2, -13, -10, -4, -19]);
+const largestAges = largestElement([35, 12, 65, 90, 4, 19]);
+//const largestAges = largestElement([-35, -2, -13, -10, -4, -19]);
 console.log('The Oldest Man', largestAges);
